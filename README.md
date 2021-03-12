@@ -1,9 +1,11 @@
 # Cuadro-Dinamico.
+
 cuadros c++
+
+El presente programa te permitirá crear cuadros dinámicos, que te permitirá modificar el color y sus dimensiones.
+
 LA FUNCIÓN CUADRADO RECIBE 6 PARA METROS:
-
 cuadrado(PXO,PYO,ALTO,((PXO+TAMAÑO _DE_LA_ORACION)=LARGO),COLOR CUADRO FONDO,COLOR_FONDO);
-
 PXO=AQUÍ SE DEBE PONER EL PUNTO EN "X" DE DONDE EMPIEZA LA ORACIÓN.
 PYO=AQUÍ SE DEBE PONER EL PUNTO EN "Y" DE DONDE EMPIEZA LA ORACIÓN.
 ALTO=AQUÍ DEBES PODER EL TAMAÑO DEL CUADRADO (EL TAMAÑO CRECE HACIA ABAJO , Y NO HACIA ARRIBA)
