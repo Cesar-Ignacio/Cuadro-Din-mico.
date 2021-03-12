@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1615588990 source:c:\users\usuario\documents\carpeta de c++\main.cpp\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"gotoxy.h"
+	"color.h"
+	"cuadros.h"
+
+1615588372 c:\users\usuario\documents\carpeta de c++\main.cpp\gotoxy.h
+
+1615588303 c:\users\usuario\documents\carpeta de c++\main.cpp\color.h
+
+1615589166 c:\users\usuario\documents\carpeta de c++\main.cpp\cuadros.h
+
