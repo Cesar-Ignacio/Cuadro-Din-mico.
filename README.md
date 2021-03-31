@@ -32,12 +32,12 @@ ACÁ VAMOS A SER CRECER EL CUADRO EN 10 PARA LOS DOS LADOS
 
  ejemplo
 
- 5  ---------------
- 6 |  xxxxxxx     |
- 7 ---------------
- 8   -------------
- 9  | xxxxxx     |
- 10 -------------
+    5  ---------------
+    6 |  xxxxxxx     |
+    7 ---------------
+    8   -------------
+    9  | xxxxxx     |
+    10 -------------
 
 fórmula:
 
