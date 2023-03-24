@@ -1,3 +1,7 @@
+# Cuadro Dimanico C++.md
+- Este programa esta diseñado en c++, para dar un poco de estilo  y frescura a los distintos trabajos o ejercicios que queramos hacer :tw-1f440:. 
+
+
 # Cuadro-Dinamico.
 
 cuadros c++
